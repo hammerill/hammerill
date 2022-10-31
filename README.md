@@ -1,16 +1,13 @@
-### Hi there 👋
-
-<!--
-**Hammerill/Hammerill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hello
+My name is Kirill, I'm from Ukraine and this is the facts about me:
+- 🎓 I Was studying in private IT academy [IT Step](https://mariupol.itstep.org/) for 2 years. 
+Couldn't finish degree due to the war. 
+Branch - IT programmer, several languages and technologies:
+  * C++
+  * C# (.NET, ASP.NET Core)
+  * Python
+  * HTML+CSS+JS
+  * Java
+  * etc...
+- 🍵 Also a lot of time was directed to self-study.
+- 🏫 In september of 2022 started studying in Lycée Léonce Vieljeux, La Rochelle, France, computer science object.
