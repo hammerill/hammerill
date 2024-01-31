@@ -13,4 +13,4 @@ Branch - IT developer, several languages and technologies:
 - 🖥️ In May of 2023 found an internship and now working.
 
 ## [`hammerill.com`](https://hammerill.com/)
-If you think I'm inactive, I've just migrated to my own GitLab instance on my site.
+If you think I'm inactive, I've just migrated to self-hosted GitLab.
