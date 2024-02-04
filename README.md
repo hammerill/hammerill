@@ -1,6 +1,6 @@
 # Bonjour !
 My name is Kirill, I live in 🇫🇷 France, I'm from 🇺🇦 Ukraine. Facts about me:
-- 🎓 I Was studying in private IT academy [IT Step](https://mariupol.itstep.org/) for 2 years. 
+- 🎓 I was studying in private IT academy [IT Step](https://mariupol.itstep.org/) for 2 years. 
 Couldn't finish degree due to the war. 
 Branch - IT developer, several languages and technologies:
   * C++
