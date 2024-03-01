@@ -8,7 +8,7 @@ Branch - IT developer, several languages and technologies:
   * Python
   * HTML+CSS+JS
   * etc...
-- 🍵 Also a lot of time was directed to self-study.
+- 🍵 Also _a lot of time_ was directed to self-study.
 - 🏫 In September of 2022 started studying at IT university in France.
 - 🖥️ In May of 2023 found an internship and now working.
 
