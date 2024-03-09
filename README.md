@@ -13,5 +13,4 @@ Branch - IT developer, several languages and technologies:
 - 🖥️ In May of 2023 found an internship and now working.
 
 ## [`hammerill.com`](https://hammerill.com/)
-Just my site, by the way. There you'll find a GitLab I'm slowly migrating to
-(thinking about re-migrating to Gitea btw).
+Just my site, by the way. There you'll find a Gitea I'm slowly migrating to.
