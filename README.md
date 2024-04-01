@@ -1,5 +1,5 @@
 # Bonjour !
-My name is Kirill (officially Kyrylo), I live in 🇫🇷 France and coming from 🇺🇦 Ukraine. Facts about me:
+My name is Kirill (officially Kyrylo), I live in 🇫🇷 France and coming from 🇺🇦 Ukraine. About me:
 - 🎓 I was studying in private IT academy [IT Step](https://mariupol.itstep.org/) for 2 years. 
 Couldn't finish degree due to the war. 
 Branch - IT developer, several languages and technologies:
@@ -13,4 +13,4 @@ Branch - IT developer, several languages and technologies:
 - 🖥️ In May of 2023 found an internship and now working.
 
 ## [`hammerill.com`](https://hammerill.com/)
-Just my site, by the way. There you'll find a Gitea I'm slowly migrating to.
+Just my site, by the way. There you'll find (probably not) a Gitea I'm slowly migrating to.
