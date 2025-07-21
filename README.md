@@ -1,5 +1,5 @@
 # Bonjour !
-My name is Kirill (officially Kyrylo), I live in France and come from Ukraine. About me:
+My name is Kirill, I live in France and come from Ukraine. About me:
 - 🎓 I was studying in private IT academy [IT Step](https://mariupol.itstep.org/) for 2 years.
 - 🍵 Also *a lot of time* was directed to self-studies.
 - 🏫 In September 2022 started studying at IT university in France.
