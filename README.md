@@ -1,5 +1,5 @@
 # Bonjour !
-My name is Kirill, I live in France and come from Ukraine. About me:
+My name is Kyril, I live in France and come from Ukraine. About me:
 - 🍵 *A lot of time* was directed to self-studies.
 - 🏫 In September 2022 started studying at IT university in France.
 - 🖥️ In May 2023 found an internship and now doing the work/study program.
